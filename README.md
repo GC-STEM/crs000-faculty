@@ -1,7 +1,7 @@
 # CS-000 Code Repository
 
 > [!IMPORTANT]
-> 🚨 **README:** Do **NOT** fork or clone this repository yet. Follow the instructions below.
+> 🚨 Do **NOT** fork or close this repository yet! Follow the setup tasks instead.
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
@@ -10,23 +10,19 @@ Welcome to the **CS-000 Code Repository**! To get started:
 * Open the repo in your course IDE when Brightspace directs you to a [**code repository**](#️-repository-activities).
 * [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
 
----
-
 ## 💻 1-1 Setup Tasks
 
-Complete these one-time setup tasks before the end of Week 1 or before starting [Repository Activities](#️-repository-activities). Return here after each task.
+Complete these one-time setup tasks before the end of Week 1 or before starting [Repository Activities](#️-repository-activities). Return here after each setup task.
 
-1. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/GitHub)
-2. [**Set up your course IDE**](https://github.com/GC-STEM/cs000/wiki/Course-IDE)
-3. [**Clone this repository**](https://github.com/GC-STEM/cs000/wiki/Clone-Repo)
-4. [**Open the repo in your IDE**](https://github.com/GC-STEM/cs000/wiki/Open-IDE)
+0. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/GitHub).
+1. [**Set up your development environment**](https://github.com/GC-STEM/cs000/wiki/Course-IDE).
+2. [**Create your personal course repository**](https://github.com/GC-STEM/cs000/wiki/Clone-Repo).
+3. [**Open the repo in your IDE**](https://github.com/GC-STEM/cs000/wiki/Open-IDE)
 
 If a setup task does not work as expected, [get help](#-help-and-support) before continuing.
 
 > [!IMPORTANT]
 > Now that you have completed the setup tasks, perform all remaining repository activities in your course IDE, not on GitHub.
-
----
 
 ## 🏗️ Repository Activities
 
@@ -36,7 +32,7 @@ If Brightspace sent you to GitHub, switch to your local copy of the repository i
 code "$HOME/Repos/cs000"
 ```
 
-Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables. If the instructions are unclear or something does not work as expected, [get help](#-help-and-support) early.
+Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables. If the instructions are unclear or something does not work as expected, [**get help**](#-help-and-support) early and often.
 
 **Table 0.1** - *Repository Activities*
 
@@ -50,9 +46,7 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 | 7 | Project Two | [7-3_Project_Two](./7-3_Project_Two/7-3_worksheet.md) | `text_based_game.py` |
 
 > [!NOTE]
-> *Guidelines & Rubric* are in [**Brightspace**](https://learn.snhu.edu/d2l/home) under Course Menu > Learning Modules > Assignment Information.
-
----
+> *Guidelines & Rubric* are in [**Brightspace**](https://learn.snhu.edu/d2l/home) under Learning Modules > Assignment Information.
 
 ## 📚 Learn More
 
@@ -60,7 +54,7 @@ Want to understand more about what you are doing in this repository, how it work
 
 * Visit the repo [**Wiki**](https://github.com/GC-STEM/cs000/wiki) for explanations, standards, best practices, and technical guidance.
 
-* Ask a question in [**Discussions**](https://github.com/GC-STEM/cs000/discussions) if something in the repository is unclear or you want to learn more.
+* Ask a question in [**GitHub Discussions**](https://github.com/GC-STEM/cs000/discussions) if something in the repository is unclear or you want to learn more.
 
 ## 🆘 Help and Support
 
@@ -74,10 +68,14 @@ You are not in this alone. If you have questions or run into problems, return to
 
 ---
 
-<!--[![Open in VS Code for the Web](https://code.visualstudio.com/assets/branding/button-open-in-vs-code-web.png)](https://github.dev/GC-STEM/cs000)-->
+## Ideation Section - Dev Only
 
-[![Open in VS Code for the Web](https://github.com/GC-STEM/cs000/blob/main/.github/assets/open-in-vscode-web.svg)](https://github.dev/GC-STEM/cs000)
+* [ ] Script or manual procedure to change all `/GC-STEM/cs000` to student's GitHub `/username/cs000` after cloning.
 
+<!-- url-owner: repository-owner; scope: next-link -->
+[![Open in VS Code for the Web](./.github/assets/open-in-vscode-web.svg)](https://github.dev/GC-STEM/cs000)
+
+<!-- url-owner: repository-owner; scope: next-link -->
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GC-STEM/cs000?quickstart=1)
 
 <!-- Repository Metadata

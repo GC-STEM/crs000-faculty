@@ -6,21 +6,12 @@
     "editor.guides.indentation": true,
     "breadcrumbs.enabled": true,
     "workbench.editorAssociations": {
-        "README.md": "vscode.markdown.preview.editor",
-        "00_overview.md": "vscode.markdown.preview.editor",
-        "10_requirements.md": "vscode.markdown.preview.editor",
-        "20_design.md": "vscode.markdown.preview.editor",
-        "21_architecture.md": "vscode.markdown.preview.editor",
-        "30_construction.md": "vscode.markdown.preview.editor",
-        "40_testing.md": "vscode.markdown.preview.editor",
-        "worksheet.md": "vscode.markdown.editor",
-        "*.md": "vscode.markdown.editor",
-        "*.markdown": "vscode.markdown.editor"
+        "**/notes/**/*.md": "vscode.markdown.editor",
+        "*.md": "vscode.markdown.preview.editor",
+        "*.markdown": "vscode.markdown.preview.editor"
     },
-
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
-    "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "search.exclude": {
@@ -42,12 +33,15 @@
 
     "python.terminal.executeInFileDir": true,
 
-    "markdown.extension.completion.enabled": true,
-    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdown.extension.completion.enabled": false,
+    "markdown.extension.list.toggle.candidate-markers": ["*", "1."],
+    "markdown.extension.preview.autoShowPreviewToSide": false,
     "markdown.extension.toc.levels": "2..2",
-    "markdown.extension.toc.orderedList": false,
+    "markdown.extension.toc.orderedList": true,
+    "markdown.extension.toc.slugifyMode": "github",
+    "markdown.extension.toc.updateOnSave": false,
     "markdown.extension.toc.omittedFromToc": {
-        "*.md": [
+        "README.md": [
             "## Table of Contents"
         ]
     },

@@ -1,11 +1,15 @@
 {
     "recommendations": [
-        "ms-vscode.powershell",
         "ms-python.python",
         "charliermarsh.ruff",
         "hediet.vscode-drawio",
+        "i2p-hub.i2p-pseudo",
         "bierner.github-markdown-preview",
         "yzane.markdown-pdf",
         "streetsidesoftware.code-spell-checker"
+    ],
+
+    "unwantedRecommendations": [
+
     ]
 }
