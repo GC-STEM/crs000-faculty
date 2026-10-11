@@ -1,12 +1,12 @@
 # CS-000 Code Repository
 
 > [!IMPORTANT]
-> 🚨 Do **NOT** fork or clone this repository yet! Follow the [Setup Tasks](#-1-1-setup-tasks) instead.
+> 🚨 Do **NOT** fork or clone this repository yet! Follow the [**Setup Tasks**](#-1-1-setup-tasks) instead.
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
 * Complete the [**setup tasks**](#-1-1-setup-tasks) before the end of Week 1.
-* [**Get help**](#-help-and-support) early and often, if you run into problems.
+* If you run into problems, [**get help**](#-help-and-support) early and often.
 * Open the repo in your course IDE when Brightspace directs you to a [**code repository**](#️-repository-activities).
 * [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
 
@@ -23,9 +23,9 @@ Complete these one-time setup tasks **before the end of Week 1** or before start
 If a setup task does not work as expected, [**get help**](#-help-and-support) before continuing.
 
 > [!IMPORTANT]
-> Now that you have completed the setup tasks, perform all remaining repository activities in your course development environment (CDE), not on GitHub.
+> Now that you have completed the setup tasks, perform all remaining activities in your course development environment (CDE), not on GitHub.
 
-## 🏗️ Repository Activities
+## 🏗️ Code Repository Activities
 
 If Brightspace sent you to GitHub, switch to your local copy of the repository in your course IDE. If you are using the recommended course IDE, open a terminal, type the following command, and press **Enter**.
 
@@ -35,19 +35,19 @@ code "$HOME/Repos/cs000"
 
 Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables. If the instructions are unclear or something does not work as expected, [**get help**](#-help-and-support) early and often.
 
-**Table 0.1** - *Repository Activities*
+**Table 0.1** - *Code Repository Activities*
 
 | **Week** | **Guidelines & Rubric** | **Repository Activity** | **Templates → Deliverables** |
 | :------: | ----------------------- | ----------------------- | --------------------------- |
-| 2 | Module Two Assignment | [2-3_Assignment](./2-3_Assignment/2-3_worksheet.md) | `name_age.py`, `ide_features.md` |
-| 3 | Module Three Assignment | [3-3_Assignment](./3-3_Assignment/3-3_worksheet.md) | `paycheck_calculator.drawio`, `paycheck_calculator.pseudo` |
-| 4 | Module Four Assignment | [4-3_Assignment](./4-3_Assignment/4-3_worksheet.md) | `hilow_game.pseudo` |
-| 5 | Project One | [5-3_Project_One](./5-3_Project_One/5-3_worksheet.md) | `game_storyboard.md`, `game_map.drawio`, `move.pseudo`, `get_item.pseudo` |
-| 6 | Module Six Milestone | [6-4_Milestone](./6-4_Milestone/6-4_worksheet.md) | `move_between_rooms.py` |
-| 7 | Project Two | [7-3_Project_Two](./7-3_Project_Two/7-3_worksheet.md) | `text_based_game.py` |
+| **2** | Module Two Assignment | [2-0_Activity](./2-0_Activity/worksheet.md) | `<filename2-0>.<ext>` |
+| **3** | Module Three Assignment | [3-0_Activity](./3-0_Activity/worksheet.md) | `<filename3-0>.<ext>` |
+| **4** | Module Four Assignment | [4-0_Activity](./4-0_Activity/worksheet.md) | `<filename4-0>.<ext>` |
+| **5** | Project One | [5-0_Activity](./5-0_Activity/worksheet.md) | `<filename5-0>.<ext>` |
+| **6** | Module Six Milestone | [6-0_Activity](./6-0_Activity/worksheet.md) | `<filename6-0>.<ext>` |
+| **7** | Project Two | [7-0_Activity](./7-0_Activity/worksheet.md) | `<filename7-0>.<ext>` |
 
 > [!NOTE]
-> *Guidelines & Rubric* are in [**Brightspace**](https://learn.snhu.edu/d2l/home) under Learning Modules > Assignment Information.
+> *Guidelines & Rubric* are in your [**Brightspace**](https://learn.snhu.edu/d2l/home) course under **Learning Modules** > **Assignment Information**.
 
 ## 📚 Learn More
 
@@ -73,6 +73,8 @@ You are not in this alone. If you have questions or run into problems, return to
 
 * [ ] Script or manual procedure to change all `/GC-STEM/cs000` to student's GitHub `/username/cs000` after cloning.
 
+* [ ] Add virtual infrastructure badges
+  
 <!-- url-owner: repository-owner; scope: next-link -->
 [![Open in VS Code for the Web](./.github/assets/open-in-vscode-web.svg)](https://github.dev/GC-STEM/cs000)
 
