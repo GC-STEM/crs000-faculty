@@ -6,14 +6,14 @@ Accessibility is an ongoing part of course quality. Course materials are designe
 
 This document primarily addresses course materials created and maintained in this repository. GitHub is a third-party platform, and some aspects of its accessibility are outside the course team's control. If a GitHub accessibility barrier prevents you from completing a course task, use the reporting process below so that an appropriate alternative or workaround can be identified.
 
-<!-- omit from toc -->
-## Table of Contents
+## Table of Contents <!-- omit from toc -->
 
-1. [Accessibility Practices](#accessibility-practices)
-2. [Known Limitations and Alternatives](#known-limitations-and-alternatives)
-3. [Reporting an Accessibility Barrier](#reporting-an-accessibility-barrier)
-4. [Contributors](#contributors)
-5. [Additional Resources](#additional-resources)
+- [Accessibility](#accessibility)
+  - [Accessibility Practices](#accessibility-practices)
+  - [Known Limitations and Alternatives](#known-limitations-and-alternatives)
+  - [Reporting an Accessibility Barrier](#reporting-an-accessibility-barrier)
+  - [Contributors](#contributors)
+  - [Additional Resources](#additional-resources)
 
 ## Accessibility Practices
 
@@ -39,7 +39,7 @@ Course repository content should:
 
 If something in this repository prevents or makes it difficult for you to complete a course task:
 
-* **Students:** Contact your instructor or use the [Student Support](../../wiki/Student-Support) resources listed for this course.
+* **Students:** Contact your instructor or use the [Student Support](https://github.com/GC-STEM/cs000/wiki/Support-Student) resources listed for this course.
 * **Faculty and staff:** Report the problem through the repository's approved issue or support process.
 
 When possible, describe:

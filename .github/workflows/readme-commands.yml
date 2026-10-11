@@ -1,89 +1,53 @@
-name: README Command Checks
+name: Documentation Command Syntax
 
 on:
   push:
-    paths:
-      - "README.md"
-      - "**/README.md"
-      - ".github/ci/check_readme_commands.py"
-      - ".github/workflows/readme-commands.yml"
   pull_request:
-    paths:
-      - "README.md"
-      - "**/README.md"
-      - ".github/ci/check_readme_commands.py"
-      - ".github/workflows/readme-commands.yml"
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.repository }}-${{ github.ref }}
-  cancel-in-progress: true
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
-  readme-command-check:
+  command-syntax:
     name: ${{ matrix.name }}
-    if: ${{ github.repository == 'GC-STEM/it140-m2-assignment' }}
+    if: github.repository == 'GC-STEM/_core'
     strategy:
       fail-fast: false
       matrix:
         include:
           - name: Linux / Bash
             os: ubuntu-latest
-            platform: linux
-            test_shell: bash
-          - name: macOS / zsh
+          - name: macOS / Bash
             os: macos-latest
-            platform: macos
-            test_shell: zsh
           - name: Windows / Git Bash
             os: windows-latest
-            platform: windows-git-bash
-            test_shell: bash
     runs-on: ${{ matrix.os }}
-    timeout-minutes: 5
-
+    timeout-minutes: 10
+    defaults:
+      run:
+        shell: bash
     steps:
       - name: Check out repository
-        uses: actions/checkout@v7
-
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
       - name: Set up Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.12"
-
-      - name: Resolve test shell
-        shell: bash
+      - name: Install Core CI dependencies
+        run: python -m pip install --disable-pip-version-check -r .github/ci/requirements.txt
+      - name: Resolve Bash executable
         run: |
-          shell_path="$(command -v "${{ matrix.test_shell }}")"
-          "$shell_path" --version | head -n 1
-
-          # Native Windows Python does not understand Git Bash's /usr/bin
-          # path directly. Convert it to the native Windows executable path
-          # so nested shell checks cannot resolve to the WSL bash launcher.
+          shell_path="$(command -v bash)"
           if command -v cygpath >/dev/null 2>&1; then
             shell_path="$(cygpath -w "$shell_path")"
           fi
-
           echo "CI_TEST_SHELL=$shell_path" >> "$GITHUB_ENV"
-
-      - name: Check README command blocks
-        shell: bash
-        run: |
-          python .github/ci/check_readme_commands.py \
-            --shell "${{ matrix.test_shell }}" \
-            --platform "${{ matrix.platform }}"
-
-      - name: Write README command summary
-        if: ${{ always() }}
-        shell: bash
-        run: |
-          echo "## README command checks" >> "$GITHUB_STEP_SUMMARY"
-          echo "" >> "$GITHUB_STEP_SUMMARY"
-          echo "Platform: **${{ matrix.name }}**" >> "$GITHUB_STEP_SUMMARY"
-          echo "" >> "$GITHUB_STEP_SUMMARY"
-          echo "The check validates README shell syntax and runs marked" \
-            "command blocks in a disposable test environment." \
-            >> "$GITHUB_STEP_SUMMARY"
+      - name: Check documented Bash syntax
+        run: python .github/ci/check_readme_commands.py --shell bash

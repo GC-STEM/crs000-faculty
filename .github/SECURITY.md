@@ -4,10 +4,7 @@ This policy explains how to report security vulnerabilities or sensitive-informa
 
 Do not report security vulnerabilities, exposed credentials, or sensitive information through a public issue, discussion, pull request, commit, or comment.
 
----
-
-<!-- omit from toc -->
-## Table of Contents
+## Table of Contents <!-- omit from toc -->
 
 1. [Supported Versions](#supported-versions)
 2. [Security Issues Covered by This Policy](#security-issues-covered-by-this-policy)
@@ -21,8 +18,6 @@ Do not report security vulnerabilities, exposed credentials, or sensitive inform
 10. [Academic and Institutional Requirements](#academic-and-institutional-requirements)
 11. [Provisional Status](#provisional-status)
 12. [References](#references)
-
----
 
 ## Supported Versions
 
@@ -188,8 +183,8 @@ This policy does not create a safe-harbor agreement, authorize security testing,
 This document uses original, academic-context wording informed by the following sources:
 
 * [Adding a security policy to your repository](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/add-security-policy), which describes GitHub’s requirements for communicating supported versions and reporting procedures.
-* [Privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/privately-reporting-a-security-vulnerability), which describes GitHub’s private vulnerability-reporting process.
-* [About coordinated disclosure of security vulnerabilities](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/about-coordinated-disclosure-of-security-vulnerabilities), which describes private collaboration and coordinated publication through repository security advisories.
+* [Privately reporting a security vulnerability](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately), which explains how to submit a private vulnerability report when the repository has this feature enabled.
+* [Coordinated disclosure of security vulnerabilities](https://docs.github.com/en/code-security/concepts/vulnerability-reporting-and-management/coordinated-disclosure), which describes private collaboration and coordinated publication through repository security advisories.
 * [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines), which establishes expectations for safe, respectful, and responsible participation on GitHub.
 * [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), which governs access to and use of GitHub.
 * Applicable institutional information-security, privacy, acceptable-use, academic-integrity, records-management, and incident-response policies.

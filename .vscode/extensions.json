@@ -13,6 +13,11 @@
     ],
 
     "unwantedRecommendations": [
-
+        "ms-vscode-remote.remote-containers",
+        "ms-azuretools.vscode-containers",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "mechatroner.rainbow-csv",
+        "dotjoshjohnson.xml"
     ]
 }

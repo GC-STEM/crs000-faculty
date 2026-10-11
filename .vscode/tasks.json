@@ -2,15 +2,41 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Setup: Check CDE",
-      "detail": "Check course development environment for recommended tools and extensions.",
+      "label": "Core: Install CI Dependencies",
+      "detail": "Install the pinned dependencies required by Core validation.",
       "type": "process",
       "command": "python3",
       "windows": {
         "command": "python"
       },
       "args": [
-        "${workspaceFolder}/.vscode/check_dev_env.py"
+        "-m",
+        "pip",
+        "install",
+        "--disable-pip-version-check",
+        "-r",
+        "${workspaceFolder}/.github/ci/requirements.txt"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "clear": true
+      }
+    },
+    {
+      "label": "Core: Validate Repository",
+      "detail": "Validate required Core files, configuration, and EoL policies.",
+      "type": "process",
+      "command": "python3",
+      "windows": {
+        "command": "python"
+      },
+      "args": [
+        "${workspaceFolder}/.github/ci/check_repository.py"
       ],
       "options": {
         "cwd": "${workspaceFolder}"

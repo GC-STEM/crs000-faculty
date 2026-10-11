@@ -4,10 +4,7 @@ This file helps you choose the correct GitHub or course support channel.
 
 The [Course Support page](https://github.com/GC-STEM/cs000/wiki/Course-Support) is the authoritative source for detailed support options, schedules, availability, booking instructions, tutoring selections, technical support, academic resources, and self-help materials.
 
----
-
-<!-- omit from toc -->
-## Table of Contents
+## Table of Contents <!-- omit from toc -->
 
 1. [Start Here](#start-here)
 2. [Choose the Correct Support Channel](#choose-the-correct-support-channel)
@@ -19,8 +16,6 @@ The [Course Support page](https://github.com/GC-STEM/cs000/wiki/Course-Support) 
 8. [Response Expectations](#response-expectations)
 9. [Provisional Status](#provisional-status)
 10. [References](#references)
-
----
 
 ## Start Here
 

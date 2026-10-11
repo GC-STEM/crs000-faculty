@@ -11,27 +11,27 @@ List releases in reverse chronological order, with the newest first.
 Use ISO 8601 dates: YYYY-MM-DD.
 
 Group changes under the applicable headings:
-* Added: New content, features, resources, or capabilities
-* Changed: Changes to existing content, behavior, or requirements
-* Deprecated: Content or functionality scheduled for removal
-* Removed: Removed content, functionality, or requirements
-* Fixed: Corrections to errors, defects, links, or instructions
-* Security: Changes that address security or privacy concerns
+- Added: New content, features, resources, or capabilities
+- Changed: Changes to existing content, behavior, or requirements
+- Deprecated: Content or functionality scheduled for removal
+- Removed: Removed content, functionality, or requirements
+- Fixed: Corrections to errors, defects, links, or instructions
+- Security: Changes that address security or privacy concerns
 
 ENTRY FORMAT
 
-* **Scope:** Concise description of the change. **Impact:** Who or what is
+- **Scope:** Concise description of the change. **Impact:** Who or what is
   affected. **Action required:** Required action or "None." ([#issue-number])
 
 Fields:
-* Scope: Course component, module, assignment, file, platform, or tool affected
-* Change: A concise, user-focused description of what changed
-* Impact: Effect on students, faculty, maintainers, workflows, or compatibility
-* Action required: Steps users must take; use "None" when no action is needed
-* Reference: Optional link to the related issue, pull request, or decision record
+- Scope: Course component, module, assignment, file, platform, or tool affected
+- Change: A concise, user-focused description of what changed
+- Impact: Effect on students, faculty, maintainers, workflows, or compatibility
+- Action required: Steps users must take; use "None" when no action is needed
+- Reference: Optional link to the related issue, pull request, or decision record
 
 Example:
-* **Module Two assignment:** Corrected the expected output in the Part A
+- **Module Two assignment:** Corrected the expected output in the Part A
   example. **Impact:** Documentation only; assignment requirements are
   unchanged. **Action required:** None. ([#123])
 -->
@@ -93,7 +93,7 @@ Example:
 ## [X.Y.Z] - YYYY-MM-DD [YANKED]
 
 Explain why the release was withdrawn and identify the replacement version.
--->
 
 [Unreleased]: https://github.com/OWNER/REPOSITORY/compare/vX.Y.Z...HEAD
 [X.Y.Z]: https://github.com/OWNER/REPOSITORY/releases/tag/vX.Y.Z
+-->

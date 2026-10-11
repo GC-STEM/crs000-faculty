@@ -6,10 +6,7 @@ This repository supports teaching, learning, and academic collaboration. Everyon
 
 This Code of Conduct applies to students, faculty, staff, maintainers, contributors, and visitors.
 
----
-
-<!-- omit from toc -->
-## Table of Contents
+## Table of Contents <!-- omit from toc -->
 
 1. [Purpose](#purpose)
 2. [Expected Behavior](#expected-behavior)
@@ -22,8 +19,6 @@ This Code of Conduct applies to students, faculty, staff, maintainers, contribut
 9. [Questions](#questions)
 10. [Provisional Status](#provisional-status)
 11. [References](#references)
-
----
 
 ## Expected Behavior
 
