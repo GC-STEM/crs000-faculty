@@ -5,23 +5,25 @@
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
-* Complete the one-time [**setup tasks**](#-1-1-setup-tasks) before the end of Week 1.
+* Complete the [**setup tasks**](#-1-1-setup-tasks) before the end of Week 1.
 * [**Get help**](#-help-and-support) early and often, if you run into problems.
 * Open the repo in your course IDE when Brightspace directs you to a [**code repository**](#️-repository-activities).
 * [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
 
 ## 💻 1-1 Setup Tasks
 
-Complete these one-time setup tasks before the end of Week 1 or before starting [Repository Activities](#️-repository-activities). Return here after each setup task.
+Complete these one-time setup tasks **before the end of Week 1** or before starting **Repository Activities**.
 
 1. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/Setup-GitHub).
+
 2. [**Set up your course development environment**](https://github.com/GC-STEM/cs000/wiki/Setup-CDE).
+
 3. [**Set up your course repository**](https://github.com/GC-STEM/cs000/wiki/Setup-Repo).
 
-If a setup task does not work as expected, [get help](#-help-and-support) before continuing.
+If a setup task does not work as expected, [**get help**](#-help-and-support) before continuing.
 
 > [!IMPORTANT]
-> Now that you have completed the setup tasks, perform all remaining repository activities in your course IDE, not on GitHub.
+> Now that you have completed the setup tasks, perform all remaining repository activities in your course development environment (CDE), not on GitHub.
 
 ## 🏗️ Repository Activities
 
