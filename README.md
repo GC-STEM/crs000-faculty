@@ -1,7 +1,7 @@
 # CS-000 Code Repository
 
 > [!IMPORTANT]
-> 🚨 Do **NOT** fork or close this repository yet! Follow the setup tasks instead.
+> 🚨 Do **NOT** fork or clone this repository yet! Follow the [Setup Tasks](#-1-1-setup-tasks) instead.
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
@@ -14,10 +14,9 @@ Welcome to the **CS-000 Code Repository**! To get started:
 
 Complete these one-time setup tasks before the end of Week 1 or before starting [Repository Activities](#️-repository-activities). Return here after each setup task.
 
-0. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/GitHub).
-1. [**Set up your development environment**](https://github.com/GC-STEM/cs000/wiki/Course-IDE).
-2. [**Create your personal course repository**](https://github.com/GC-STEM/cs000/wiki/Clone-Repo).
-3. [**Open the repo in your IDE**](https://github.com/GC-STEM/cs000/wiki/Open-IDE)
+1. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/Setup-GitHub).
+2. [**Set up your course development environment**](https://github.com/GC-STEM/cs000/wiki/Setup-CDE).
+3. [**Set up your course repository**](https://github.com/GC-STEM/cs000/wiki/Setup-Repo).
 
 If a setup task does not work as expected, [get help](#-help-and-support) before continuing.
 
@@ -64,7 +63,7 @@ You are not in this alone. If you have questions or run into problems, return to
 
 * [**IT Service Desk**](https://snhu.service-now.com/sp) for technical support with course technologies.
 
-* **More ▼ Online Student Services** for additional support options.
+* [**More ▼ Online Student Services**](https://learn.snhu.edu/d2l/home) on your course navigation bar for additional support options.
 
 ---
 
