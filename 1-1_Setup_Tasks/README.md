@@ -8,13 +8,11 @@ In this activity, you will set up your course development environment (CDE). Com
 
 A personal GitHub account is {{optional | recommended | required}} for this course. Your personal GitHub account will serve as your development workspace throughout your degree program and as a professional portfolio you can share with prospective employers after graduation.
 
-To create a new account or configure an existing account, follow the instructions in [GitHub Setup](./platforms/github.md). 
+To create a new account or configure an existing account, follow the instructions in [GitHub Setup](./platforms/github.md).
 
 Use a professional username and a personal email address that you will retain after graduation.
 
 {{Why? How will students use in this course and throughout their }}
-
-
 
 ## Set up your development environment
 
@@ -28,11 +26,9 @@ Use a professional username and a personal email address that you will retain af
 
 ### In the cloud
 
-* **Codio**. 
-
-
+* **Codio**.
 * [**Codespaces**](./platforms/codespaces.md)
-* [**VS Code for Web**](./platforms/vscode_web.md)
+* [**VS Code for Web**](./platforms/vscode.dev.md)
 
 > [!IMPORTANT]
 > Now that you have completed setting up your platform, perform all remaining activities in your course development environment (CDE), not on GitHub.
