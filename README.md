@@ -1,16 +1,16 @@
 # CS-000 Code Repository
 
 > [!IMPORTANT]
-> 🚨 Do **NOT** fork or clone this repository yet! Follow the [**Setup Tasks**](#-1-1-setup-tasks) instead.
+> 🚨 Do **NOT** fork or clone this repository yet! Follow the [**Setup Tasks**](#1-1-setup-tasks) instead.
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
 * Complete the [**setup tasks**](./1-1_Setup_Tasks/README.md) before the end of Week 1.
-* If you run into problems, [**get help**](#-help-and-support) early and often.
-* Open the repo in your course IDE when Brightspace directs you to a [**code repository**](#️-repository-activities).
-* [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
+* If you run into problems, [**get help**](#help-and-support) early and often.
+* Open the repo in your course IDE when Brightspace directs you to a [**code repository**](#repository-activities).
+* [**Learn more**](#learn-more) about what you are doing and why, if you are curious.
 
-## 💻 1-1 Setup Tasks
+## 1-1 Setup Tasks
 
 Complete these one-time setup tasks **before the end of Week 1** or before starting **Repository Activities**.
 
@@ -20,12 +20,12 @@ Complete these one-time setup tasks **before the end of Week 1** or before start
 
 3. [**Set up your course repository**](https://github.com/GC-STEM/cs000/wiki/Setup-Repo).
 
-If a setup task does not work as expected, [**get help**](#-help-and-support) before continuing.
+If a setup task does not work as expected, [**get help**](#help-and-support) before continuing.
 
 > [!IMPORTANT]
 > Now that you have completed the setup tasks, perform all remaining activities in your course development environment (CDE), not on GitHub.
 
-## 🏗️ Repository Activities
+## Repository Activities
 
 If Brightspace sent you to GitHub, switch to your local copy of the repository in your course IDE. If you are using the recommended course IDE, open a terminal, type the following command, and press **Enter**.
 
@@ -33,7 +33,7 @@ If Brightspace sent you to GitHub, switch to your local copy of the repository i
 code "$HOME/Repos/cs000"
 ```
 
-Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables. If the instructions are unclear or something does not work as expected, [**get help**](#-help-and-support) early and often.
+Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables. If the instructions are unclear or something does not work as expected, [**get help**](#help-and-support) early and often.
 
 **Table 0.1** - *Code Repository Activities*
 
@@ -51,7 +51,7 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 > [!NOTE]
 > *Guidelines & Rubric* are in your [**Brightspace**](https://learn.snhu.edu/d2l/home) course under **Learning Modules** > **Assignment Information**.
 
-## 📚 Learn More
+## Learn More
 
 Want to understand more about what you are doing in this repository, how it works, or why it matters?
 
@@ -59,7 +59,7 @@ Want to understand more about what you are doing in this repository, how it work
 
 * Ask a question in [**GitHub Discussions**](https://github.com/GC-STEM/cs000/discussions) if something in the repository is unclear or you want to learn more.
 
-## 🆘 Help and Support
+## Help and Support
 
 You are not in this alone. If you have questions or run into problems, return to your [**Brightspace**](https://learn.snhu.edu/d2l/home) course and select a support option from the main menu.
 
