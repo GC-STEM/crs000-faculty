@@ -5,7 +5,7 @@
 
 Welcome to the **CS-000 Code Repository**! To get started:
 
-* Complete the [**setup tasks**](#-1-1-setup-tasks) before the end of Week 1.
+* Complete the [**setup tasks**](./1-1_Setup_Tasks/README.md) before the end of Week 1.
 * If you run into problems, [**get help**](#-help-and-support) early and often.
 * Open the repo in your course IDE when Brightspace directs you to a [**code repository**](#️-repository-activities).
 * [**Learn more**](#-learn-more) about what you are doing and why, if you are curious.
@@ -14,7 +14,7 @@ Welcome to the **CS-000 Code Repository**! To get started:
 
 Complete these one-time setup tasks **before the end of Week 1** or before starting **Repository Activities**.
 
-1. [**Set up your GitHub account**](https://github.com/GC-STEM/cs-core/wiki/Setup-GitHub).
+1. [**Set up your GitHub account**](./1-1_Setup_Tasks/README.md).
 
 2. [**Set up your course development environment**](https://github.com/GC-STEM/cs000/wiki/Setup-CDE).
 
@@ -25,7 +25,7 @@ If a setup task does not work as expected, [**get help**](#-help-and-support) be
 > [!IMPORTANT]
 > Now that you have completed the setup tasks, perform all remaining activities in your course development environment (CDE), not on GitHub.
 
-## 🏗️ Code Repository Activities
+## 🏗️ Repository Activities
 
 If Brightspace sent you to GitHub, switch to your local copy of the repository in your course IDE. If you are using the recommended course IDE, open a terminal, type the following command, and press **Enter**.
 
@@ -39,12 +39,14 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 
 | **Week** | **Guidelines & Rubric** | **Repository Activity** | **Templates → Deliverables** |
 | :------: | ----------------------- | ----------------------- | --------------------------- |
-| **2** | Module Two Assignment | [2-0_Activity](./2-0_Activity/worksheet.md) | `<filename2-0>.<ext>` |
-| **3** | Module Three Assignment | [3-0_Activity](./3-0_Activity/worksheet.md) | `<filename3-0>.<ext>` |
-| **4** | Module Four Assignment | [4-0_Activity](./4-0_Activity/worksheet.md) | `<filename4-0>.<ext>` |
-| **5** | Project One | [5-0_Activity](./5-0_Activity/worksheet.md) | `<filename5-0>.<ext>` |
-| **6** | Module Six Milestone | [6-0_Activity](./6-0_Activity/worksheet.md) | `<filename6-0>.<ext>` |
-| **7** | Project Two | [7-0_Activity](./7-0_Activity/worksheet.md) | `<filename7-0>.<ext>` |
+| **1** | Not Applicable (N/A) | [1-1_Setup_Tasks](./1-1_Setup_Tasks/README.md) | None. |
+| **2** | Module Two Assignment | [2-0_Activity](./2-0_Activity_Title/README.md) | `<filename2-0>.<ext>` |
+| **3** | Module Three Assignment | [3-0_Activity](./3-0_Activity_Title/README.md) | `<filename3-0>.<ext>` |
+| **4** | Module Four Assignment | [4-0_Activity](./4-0_Activity_Title/README.md) | `<filename4-0>.<ext>` |
+| **5** | Project One | [5-0_Activity](./5-0_Activity_Title/README.md) | `<filename5-0>.<ext>` |
+| **6** | Module Six Milestone | [6-0_Activity](./6-0_Activity_Title/README.md) | `<filename6-0>.<ext>` |
+| **7** | Project Two | [7-0_Activity](./7-0_Activity_Title/README.md) | `<filename7-0>.<ext>` |
+| **8** | Not Applicable (N/A) | [8-9_Next_Steps](./8-9_Next_Steps/README.md) | None. |
 
 > [!NOTE]
 > *Guidelines & Rubric* are in your [**Brightspace**](https://learn.snhu.edu/d2l/home) course under **Learning Modules** > **Assignment Information**.
