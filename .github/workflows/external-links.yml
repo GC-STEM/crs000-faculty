@@ -16,7 +16,7 @@ concurrency:
 jobs:
   external-links:
     name: External documentation links
-    if: github.repository == 'GC-STEM/_core'
+    if: github.repository_owner == 'GC-STEM'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:

@@ -15,7 +15,7 @@ concurrency:
 jobs:
   core-validation:
     name: Core configuration and automation
-    if: github.repository == 'GC-STEM/_core'
+    if: github.repository_owner == 'GC-STEM'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:

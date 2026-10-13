@@ -15,7 +15,7 @@ concurrency:
 jobs:
   command-syntax:
     name: ${{ matrix.name }}
-    if: github.repository == 'GC-STEM/_core'
+    if: github.repository_owner == 'GC-STEM'
     strategy:
       fail-fast: false
       matrix:
