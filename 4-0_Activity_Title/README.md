@@ -1,6 +1,6 @@
 <!-- To see this file in a clean, formatted view, select ▼ in the upper-right corner of the editor pane, then select "Markdown Preview".-->
 
-# {{CS-000}} {{Task Title}} | {{Task Section Title, if applicable}}
+# CS-000 {{Activity Title}} | {{Task Section Title, if applicable}}
 
 ---
 
@@ -26,11 +26,11 @@
 
 SME TODO: Add brief summary of the SDLC.
 
-1. **Analyze** the [problem and requirements](./analysis/requirements.md) to understand what needs to be done. Record your understanding of the problem and requirements in your [Software Development Worksheet](./worksheet.md).
+1. **Analyze** the [problem and requirements]() to understand what needs to be done. Record your understanding of the problem and requirements in your [Software Development Worksheet]().
 
-2. **Design** a solution that meets requirements. Review the [Software Design Document](./design/design.md), {{along with its | and create a}} [flowchart](./design/flowchart.drawio) and low-level [pseudocode](./design/pseudocode.pseudo).
+2. **Design** a solution that meets requirements. Review the [Software Design Document](), {{along with its | and create a}} [flowchart](./design/flowchart.drawio) and low-level [pseudocode]().
 
-3. **Construct** a working program in [`program_name.py`](./src/program_name.py) that implements the designed solution.
+3. **Construct** a working program in [`program_name.py`]() that implements the designed solution.
 
 4. **Test** the program to ensure it works correctly and meets the requirements. Debug any issues that arise during testing. Test again until all issues are resolved.
 

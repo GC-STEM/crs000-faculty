@@ -29,13 +29,13 @@ To complete this task effectively, use the [**Software Development Life Cycle**]
 
 ### 1. Analyze the Problem
 
-1. [ ] Read the solution [requirements](./analysis/requirements.md) to understand what the solution must do.
+1. [ ] Read the solution [requirements]() to understand what the solution must do.
 
 2. [ ] Complete the **Analysis** section of the task [worksheet](worksheet.md) to record your understanding of the problem and requirements. You will need it in subsequent phases of the SDLC.
 
 ### 2. Design the Solution
 
-1. [ ] Read the solution [design](./design/design.md) to understand the planned structure and logic.
+1. [ ] Read the solution [design]() to understand the planned structure and logic.
 
 2. [ ] Complete the **Design** section of the task [worksheet](worksheet.md) to record your understanding of the solution design. You will need it in subsequent phases of the SDLC.
 
@@ -45,7 +45,7 @@ To complete this task effectively, use the [**Software Development Life Cycle**]
 
 ### 3. Construct the Solution
 
-**Construct** the solution in [`program_name.py`](./src/program_name.py). Implement and test one small section of code at a time until the program matches the design.
+**Construct** the solution in [`program_name.py`](). Implement and test one small section of code at a time until the program matches the design.
 
 ### 4. Test Your Solution
 
