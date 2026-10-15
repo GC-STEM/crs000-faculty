@@ -1,0 +1,9 @@
+{
+  "commands": {
+    "Run Current Python File": {
+      "id": "terminal_1",
+      "cmd": "cd \"{{path}}\" && python3 -u \"{{filename}}\""
+    },
+    "Run Python Tests": "python3 -m pytest"
+  }
+}
