@@ -9,13 +9,12 @@
 <!-- omit from toc -->
 ## Table of Contents
 
-* [Table of Contents](#table-of-contents)
-* [Getting Started](#getting-started)
-* [Getting Help](#getting-help)
+1. [Getting Started](#getting-started)
+2. [Getting Help](#getting-help)
 
 ## Getting Started
 
-To complete this task effectively, use the [**Software Development Life Cycle**](https://) (SDLC) to analyze, design, construct, and test each solution. Complete the following steps in order.
+To complete this task effectively, use the [**Software Development Life Cycle**]([https://](https://github.com/GC-STEM/.github/wiki/SDLC-Overview)) (SDLC) to analyze, design, construct, and test each solution. Complete the following steps in order.
 
 ### 0. Meet the Prerequisites
 
@@ -29,23 +28,23 @@ To complete this task effectively, use the [**Software Development Life Cycle**]
 
 ### 1. Analyze the Problem
 
-1. [ ] Read the solution [requirements]() to understand what the solution must do.
+1. [ ] Read the solution **requirements** to understand what the solution must do.
 
-2. [ ] Complete the **Analysis** section of the task [worksheet](worksheet.md) to record your understanding of the problem and requirements. You will need it in subsequent phases of the SDLC.
+2. [ ] Complete the **Analysis** section of the task **worksheet** to record your understanding of the problem and requirements. You will need it in subsequent phases of the SDLC.
 
 ### 2. Design the Solution
 
-1. [ ] Read the solution [design]() to understand the planned structure and logic.
+1. [ ] Read the solution **design** to understand the planned structure and logic.
 
-2. [ ] Complete the **Design** section of the task [worksheet](worksheet.md) to record your understanding of the solution design. You will need it in subsequent phases of the SDLC.
+2. [ ] Complete the **Design** section of the task **worksheet** to record your understanding of the solution design. You will need it in subsequent phases of the SDLC.
 
-3. [ ] {{Review | Create}} the [flowchart](./design/flowchart.drawio) based on the design document to show the solution's main logic.
+3. [ ] {{Review | Create}} the **flowchart** based on the design document to show the solution's main logic.
 
-4. [ ] {{Review | Create}} the [pseudocode](./design/program_name.pseudo) to describe the detailed logic in language-independent steps.
+4. [ ] {{Review | Create}} the **pseudocode** to describe the detailed logic in language-independent steps.
 
 ### 3. Construct the Solution
 
-**Construct** the solution in [`program_name.py`](). Implement and test one small section of code at a time until the program matches the design.
+**Construct** the solution in the **`program file.py`** . Implement and test one small section of code at a time until the program matches the design.
 
 ### 4. Test Your Solution
 
