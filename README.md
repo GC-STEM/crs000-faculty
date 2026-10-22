@@ -15,7 +15,7 @@ Welcome to the **CS-000 Code Repository**! This repository supplements your [**B
 2. [Modules 2-4: Assignments](#modules-2-4-assignments)
 3. [Modules 5-7: Project](#modules-5-7-project)
 4. [Module 8: Next Steps](#module-8-next-steps)
-5. [Ideation Section - Dev Only](#ideation-section---dev-only)
+5. [Help and Support](#help-and-support)
 
 ## Module 1: Get Started
 
@@ -57,37 +57,10 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 
 Complete the [**Next Steps**](https://github.com/GC-STEM/cs000/wiki/8%E2%80%909-Next-Steps) to continue your progress in the course.
 
----
+## Help and Support
 
-## Ideation Section - Dev Only
-
-* [ ] Script or manual procedure to change all `/GC-STEM/cs000` to student's GitHub `/username/cs000` after cloning.
-
-* [ ] Add virtual infrastructure badges
-
-<!-- url-owner: repository-owner; scope: next-link -->
-[![Open in VS Code for the Web](./.github/assets/open-in-vscode-web.svg)](https://github.dev/GC-STEM/cs000)
-
-<!-- url-owner: repository-owner; scope: next-link -->
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/GC-STEM/cs000?quickstart=1)
-
-### Learn More
-
-Want to understand more about what you are doing in this repository, how it works, or why it matters?
-
-* Visit the repo [**Wiki**](https://github.com/GC-STEM/cs000/wiki) for explanations, standards, best practices, and technical guidance.
-
-* Ask a question in [**GitHub Discussions**](https://github.com/GC-STEM/cs000/discussions) if something in the repository is unclear or you want to learn more.
-
-### Help and Support
-
-You are not in this alone. If you have questions or run into problems, return to your [**Brightspace**](https://learn.snhu.edu/d2l/home) course and select a support option from the main menu.
-
-* [**Academic Support**](https://myapps.microsoft.com/signin/00b02d3d-d1f9-40dc-b7e0-a4c4f512c5b4?tenantId=2baef15b-b8de-423f-9d8a-46f3686d8848) for questions about course concepts and activities.
-
-* [**IT Service Desk**](https://snhu.service-now.com/sp) for technical support with course technologies.
-
-* [**More ▼ Online Student Services**](https://learn.snhu.edu/d2l/home) on your course navigation bar for additional support options.
+- [**Support for Students**](https://github.com/GC-STEM/cs000/wiki/Support-for-Students)
+- [**Support for Faculty**](https://github.com/GC-STEM/cs000-faculty/wiki/Support-for-Faculty)
 
 <!-- Repository Metadata
 ---
