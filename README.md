@@ -1,3 +1,5 @@
+<!-- To see this file in a clean, formatted view, select ▼ in the upper-right corner of the editor pane, then select "Markdown Preview".-->
+
 # CS-000 Code Repository
 
 ---
@@ -11,13 +13,13 @@ Welcome to the **CS-000 Code Repository**! This repository supplements your [**B
 
 ## Table of Contents <!-- omit from toc -->
 
-1. [Module 1: Get Started](#module-1-get-started)
+1. [Module 1: Setup Tasks](#module-1-setup-tasks)
 2. [Modules 2-4: Assignments](#modules-2-4-assignments)
 3. [Modules 5-7: Project](#modules-5-7-project)
 4. [Module 8: Next Steps](#module-8-next-steps)
 5. [Help and Support](#help-and-support)
 
-## Module 1: Get Started
+## Module 1: Setup Tasks
 
 Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks) before the end of Week 1 or before starting on other repository activities.
 
