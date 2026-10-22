@@ -60,6 +60,7 @@ Complete the [**Next Steps**](https://github.com/GC-STEM/cs000/wiki/8%E2%80%909-
 ## Help and Support
 
 - [**Support for Students**](https://github.com/GC-STEM/cs000/wiki/Support-for-Students)
+<!-- AI TODO: Add flag for CI link checker to expect 404 for faculty support link since it is a private-->
 - [**Support for Faculty**](https://github.com/GC-STEM/cs000-faculty/wiki/Support-for-Faculty)
 
 <!-- Repository Metadata
