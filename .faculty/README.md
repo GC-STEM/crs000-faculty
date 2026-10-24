@@ -10,3 +10,8 @@ All contents are confidential and must remain in this private repository.
 
 Student-facing course materials are maintained in GC-STEM/cs000
 and synchronized into this repository.
+
+<!-- ci:command-test id=setup-personal-repo fixture=empty-repos expect=repo -->
+```bash
+
+```
