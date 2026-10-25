@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Requirements
+# {{CRS-000}} {{Task Code}} | Software Requirements
 
 <!-- Define what the software must do and the constraints it must satisfy before detailed design and construction begin. -->
 
@@ -104,7 +104,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "A guided requirements specification covering functional behavior, data, interfaces, quality constraints, acceptance criteria, and basic traceability."
 document_type: "Software Requirements"
 owner: "GC-STEM, Computer Science"

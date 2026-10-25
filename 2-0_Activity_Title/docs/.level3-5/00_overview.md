@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Solution Overview
+# {{CRS-000}} {{Task Code}} | Software Solution Overview
 
 <!-- Provide a concise stakeholder-oriented overview that can be understood without the detailed lifecycle documents. -->
 
@@ -77,7 +77,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "A stakeholder-oriented overview of the problem, solution value, users, system context, scope, quality goals, and success criteria."
 document_type: "Software Solution Overview"
 owner: "GC-STEM, Computer Science"

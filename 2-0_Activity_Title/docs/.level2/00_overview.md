@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Solution Overview
+# {{CRS-000}} {{Task Code}} | Software Solution Overview
 
 <!-- Provide a concise overview for a mixed technical and nontechnical audience. -->
 
@@ -68,7 +68,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "A concise stakeholder-oriented overview of the software problem, users, capabilities, scope, constraints, and success criteria."
 document_type: "Software Solution Overview"
 owner: "GC-STEM, Computer Science"

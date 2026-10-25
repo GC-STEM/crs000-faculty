@@ -43,4 +43,4 @@ For example, a course requiring Ruff could copy `optional/config/linting/ruff.to
 
 ---
 
-*Maintainer note: This directory is a development resource in `GC-STEM/cs000`, not part of the student-facing course repository structure.*
+*Maintainer note: This directory is a development resource in `GC-STEM/crs000`, not part of the student-facing course repository structure.*

@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Design
+# {{CRS-000}} {{Task Code}} | Software Design
 
 <!-- Transform the approved requirements into an implementable software design. -->
 
@@ -127,7 +127,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "A guided software design covering high-level structure, modules, data, interfaces, behavior, validation, rationale, and requirements traceability."
 document_type: "Software Design"
 owner: "GC-STEM, Computer Science"

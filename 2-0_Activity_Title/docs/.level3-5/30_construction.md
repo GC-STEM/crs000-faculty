@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Construction Plan
+# {{CRS-000}} {{Task Code}} | Software Construction Plan
 
 <!-- Define how the approved design will be implemented, integrated, and verified during construction. -->
 
@@ -115,7 +115,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "An intermediate/advanced construction plan covering approach, environment, standards, sequencing, integration, dependencies, testing, quality gates, risks, and handoff."
 document_type: "Software Construction Plan (SCP)"
 owner: "GC-STEM, Computer Science"

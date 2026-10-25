@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Design Description
+# {{CRS-000}} {{Task Code}} | Software Design Description
 
 <!-- Transform approved requirements into an implementable design. If 21_architecture.md is not required, include important architecture decisions here. -->
 
@@ -138,7 +138,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "An intermediate/advanced SDD covering high-level structure, components, data, interfaces, behavior, quality concerns, rationale, and traceability."
 document_type: "Software Design Description (SDD)"
 owner: "GC-STEM, Computer Science"

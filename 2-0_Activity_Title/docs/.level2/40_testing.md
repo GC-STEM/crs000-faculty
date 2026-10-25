@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Testing
+# {{CRS-000}} {{Task Code}} | Software Testing
 
 <!-- Plan, execute, and record testing that demonstrates whether the software satisfies its requirements. -->
 
@@ -72,7 +72,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "A guided test plan and results document covering unit, integration, system, boundary, traceability, defects, and completion criteria."
 document_type: "Software Testing"
 owner: "GC-STEM, Computer Science"

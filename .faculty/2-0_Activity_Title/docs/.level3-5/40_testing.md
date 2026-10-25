@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Test Plan
+# {{CRS-000}} {{Task Code}} | Software Test Plan
 
 <!-- Define how the software will be verified and validated against its requirements and quality goals. -->
 
@@ -138,7 +138,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "An intermediate/advanced test plan covering objectives, levels, techniques, traceability, environments, data, automation, criteria, defects, regression, quality testing, evidence, and completion."
 document_type: "Software Test Plan (STP)"
 owner: "GC-STEM, Computer Science"

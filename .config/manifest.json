@@ -8,12 +8,12 @@
   },
   "control": {
     "status": "draft",
-    "source_repository": "https://github.com/GC-STEM/cs000",
+    "source_repository": "https://github.com/GC-STEM/crs000",
     "source_revision": "dbde859f90b1b957b05aa03e25b867563c113bb2",
     "change_summary": "Complete the schema 2.2 manifest-contract repair by replacing invalid runtime verification version_adapter_id fields with schema-native version_rule objects across all platform bindings."
   },
   "policy": {
-    "course_root": "${HOME}/cs000",
+    "course_root": "${HOME}/crs000",
     "script_root": "${COURSE_ROOT}/scripts",
     "minimum_free_space_bytes": 5368709120,
     "network_timeout_seconds": 60,

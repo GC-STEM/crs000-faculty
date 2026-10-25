@@ -1,15 +1,15 @@
 <!-- To see this file in a clean, formatted view, select ▼ in the upper-right corner of the editor pane, then select "Markdown Preview".-->
 
-# CS-000 Code Repository
+# CRS-000 Code Repository
 
 ---
 
 > [!CAUTION]
-> 🚨 Do **NOT** fork this repository! If you did, [**unfork it**](https://docs.github.com/en/repositories/creating-and-managing-repositories/unfork-a-repository) before following the [**Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks).
+> 🚨 Do **NOT** fork this repository! If you did, [**unfork it**](https://docs.github.com/en/repositories/creating-and-managing-repositories/unfork-a-repository) before following the [**Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks).
 
 ---
 
-Welcome to the **CS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows}}.
+Welcome to the **CRS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows}}.
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -21,7 +21,7 @@ Welcome to the **CS-000 Code Repository**! This repository supplements your [**B
 
 ## Module 1: Setup Tasks
 
-Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/cs000/wiki/1%E2%80%901-Setup-Tasks) before the end of Week 1 or before starting on other repository activities.
+Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks) before the end of Week 1 or before starting on other repository activities.
 
 ## Modules 2-4: Assignments
 
@@ -57,12 +57,12 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 
 ## Module 8: Next Steps
 
-Complete the [**Next Steps**](https://github.com/GC-STEM/cs000/wiki/8%E2%80%909-Next-Steps) to continue your progress in the course.
+Complete the [**Next Steps**](https://github.com/GC-STEM/crs000/wiki/8%E2%80%909-Next-Steps) to continue your progress in the course.
 
 ## Help and Support
 
-- [**Support for Students**](https://github.com/GC-STEM/cs000/wiki/Support-for-Students)
-- [**Support for Faculty**](https://github.com/GC-STEM/cs000-faculty/wiki/Support-for-Faculty)
+- [**Support for Students**](https://github.com/GC-STEM/crs000/wiki/Support-for-Students)
+- [**Support for Faculty**](https://github.com/GC-STEM/crs000-faculty/wiki/Support-for-Faculty)
 
 <!-- Repository Metadata
 ---

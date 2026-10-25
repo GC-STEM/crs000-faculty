@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Design
+# {{CRS-000}} {{Task Code}} | Software Design
 
 <!-- Use this document to plan the solution before writing source code. -->
 
@@ -85,7 +85,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "A beginner-friendly plan for program data, logic, decisions, repetition, functions, error handling, diagrams, and pseudocode."
 document_type: "Software Design"
 owner: "GC-STEM, Computer Science"

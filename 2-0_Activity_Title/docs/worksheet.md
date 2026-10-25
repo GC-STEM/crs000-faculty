@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | {{Task Title}}
+# {{CRS-000}} {{Task Code}} | {{Task Title}}
 
 ---
 > [!IMPORTANT]
@@ -61,13 +61,13 @@ To complete this task effectively, use the [**Software Development Life Cycle**]
 
 <!-- ci:command-test id=setup-personal-repo fixture=empty-repos expect=repo -->
 ```bash
-cd "$HOME/Repos/{{cs000}}"
+cd "$HOME/Repos/{{crs000}}"
 ```
 
 ## Getting Help
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "<Brief summary of what this task asks students to do and why>. This task is <Required | Optional>, <graded | ungraded>; <no submission required | one submission required>."
 document_type: "<Document Type>"
 owner: "GC-STEM, Computer Science"

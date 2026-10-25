@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Testing
+# {{CRS-000}} {{Task Code}} | Software Testing
 
 <!-- Use this document to plan and record simple tests for the completed solution. -->
 
@@ -51,7 +51,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "A beginner-friendly test plan and results record for required behavior, normal cases, boundary cases, defects, and completion."
 document_type: "Software Testing"
 owner: "GC-STEM, Computer Science"

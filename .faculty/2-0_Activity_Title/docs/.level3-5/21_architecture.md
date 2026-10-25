@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Architecture Description
+# {{CRS-000}} {{Task Code}} | Software Architecture Description
 
 <!-- Optional: use this document when architecture is a meaningful separate design artifact. Smaller projects may keep architecture in 20_design.md. -->
 
@@ -110,7 +110,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "An optional intermediate/advanced architecture description covering drivers, context, elements, views, quality strategies, decisions, risks, and evaluation."
 document_type: "Software Architecture Description (SAD)"
 owner: "GC-STEM, Computer Science"

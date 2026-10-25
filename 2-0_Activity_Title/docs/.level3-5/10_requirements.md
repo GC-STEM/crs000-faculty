@@ -1,4 +1,4 @@
-# {{CS-000}} {{Task Code}} | Software Requirements Specification
+# {{CRS-000}} {{Task Code}} | Software Requirements Specification
 
 <!-- Establish an agreed, testable definition of what the software must do and the constraints it must satisfy. -->
 
@@ -144,7 +144,7 @@ course. Delete this section if references are not required.
 -->
 
 <!--
-title: "{{CS-000}} {{Task Code}} | {{Task Title}}"
+title: "{{CRS-000}} {{Task Code}} | {{Task Title}}"
 description: "An intermediate/advanced SRS covering stakeholders, functional and nonfunctional requirements, data, interfaces, constraints, acceptance, and lifecycle traceability."
 document_type: "Software Requirements Specification (SRS)"
 owner: "GC-STEM, Computer Science"
