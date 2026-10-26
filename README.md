@@ -5,31 +5,33 @@
 ---
 
 > [!CAUTION]
-> 🚨 Do **NOT** fork this repository! If you did, [**unfork it**](https://docs.github.com/en/repositories/creating-and-managing-repositories/unfork-a-repository) before following the [**Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks).
+> Do **NOT** fork course repositories! Forks are public and cannot be made private until they are disconnected from the original repository. If you already did, don't worry. The [**Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks) will show you how to unfork it and continue setting up your private course repository.
 
 ---
 
-Welcome to the **CRS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows}}.
+Welcome to the **CRS-000 Code Repository**! This repository supplements your [**Brightspace**](https://learn.snhu.edu/d2l/home) course by providing the necessary {{AI TODO: replace with the top 2-3 resources in this repo, such as starter templates and software development workflows.}}.
 
 ## Table of Contents <!-- omit from toc -->
 
 1. [Module 1: Setup Tasks](#module-1-setup-tasks)
-2. [Modules 2-4: Assignments](#modules-2-4-assignments)
-3. [Modules 5-7: Project](#modules-5-7-project)
+2. [Modules {{A-B}}: {{A-B Common Activity Title}}](#modules-a-b-a-b-common-activity-title)
+3. [Modules {{C-D}}: {{C-D Common Activity Title}}](#modules-c-d-c-d-common-activity-title)
 4. [Module 8: Next Steps](#module-8-next-steps)
 5. [Help and Support](#help-and-support)
 
 ## Module 1: Setup Tasks
 
-Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks) before the end of Week 1 or before starting on other repository activities.
+- **Students**. Complete the [**1-1 Setup Tasks**](https://github.com/GC-STEM/crs000/wiki/1%E2%80%901-Setup-Tasks) before starting on other repository activities, ideally before the end of Week 1.
 
-## Modules 2-4: Assignments
+- **Faculty**. Do NOT complete the student setup tasks. Follow the guidance in the [**Faculty README**](.faculty/README.md) instead.
 
-{{AI TODO: Replace with general description of the assignments in Modules 2-4, including the types of tasks and expected outcomes. Assignment should be completed in order and before the end of each respective week.}}
+## Modules {{A-B}}: {{A-B Common Activity Title}}
+
+{{AI TODO: Replace with general description of the assignments in Modules {{A-B}}, including the types of tasks and expected outcomes. Assignment should be completed in order and before the end of each respective week.}}
 
 Find the matching **Guidelines & Rubric** below. Open the corresponding **Repository Activity** and follow the instructions. They will guide you through the listed templates and deliverables. If the instructions are unclear or something does not work as expected, [**get help**](#help-and-support) early and often.
 
-**Table 0.1** - *Module 2-4 Assignments*
+**Table 0.1** - *Module {{A-B}} {{A-B Common Activity Title}}*
 
 | **Week** | **Guidelines & Rubric** | **Repository Activity** | **Templates → Deliverables** |
 | :------: | ----------------------- | ----------------------- | --------------------------- |
@@ -40,11 +42,11 @@ Find the matching **Guidelines & Rubric** below. Open the corresponding **Reposi
 > [!NOTE]
 > *Guidelines & Rubric* are in your [**Brightspace**](https://learn.snhu.edu/d2l/home) course under **Learning Modules** > **Assignment Information**.
 
-## Modules 5-7: Project
+## Modules {{C-D}}: {{C-D Common Activity Title}}
 
-{{AI TODO: Replace with general description of the project in Modules 5-7, including the types of tasks and expected outcomes. Project deliverables should be completed in order and before the end of each respective week.}}
+{{AI TODO: Replace with general description of the project in Modules {{C-D}}, including the types of tasks and expected outcomes. Project deliverables should be completed in order and before the end of each respective week.}}
 
-**Table 0.2** - *Modules 5-7 Project*
+**Table 0.2** - *Modules {{C-D}} {{C-D Common Activity Title}}*
 
 | **Week** | **Guidelines & Rubric** | **Repository Activity** | **Templates → Deliverables** |
 | :------: | ----------------------- | ----------------------- | --------------------------- |
