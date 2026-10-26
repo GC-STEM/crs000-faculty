@@ -1,0 +1,34 @@
+name: Sync Student Repository
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Faculty Source Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Strip Faculty-Only Content
+        run: |
+          # Delete everything inside .faculty/ except the README.md file
+          find .faculty/ -mindepth 1 ! -name 'README.md' -delete
+
+      - name: Push Clean Code to Student Repo
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.STUDENT_REPO_SYNC_TOKEN }}
+        run: |
+          git config --global user.name "GC-STEM Bot"
+          git config --global user.email "bot@gcstem.org"
+
+          # Commit the stripped-down state locally
+          git add .
+          git commit -m "Sync: Synchronized latest course updates from upstream template"
+
+          # Force push to the student repository
+          git push --force https://${{ secrets.API_TOKEN_GITHUB }}@://github.com main
