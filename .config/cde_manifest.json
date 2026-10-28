@@ -5,7 +5,7 @@
   "course": {
     "course_id": "CRS-000",
     "course_title": "Faculty Course Repository Template",
-    "environment_name": "CRS-000 Faculty Course Development Environment",
+    "environment_name": "CRS-000 Faculty Course-specific overlay",
     "repository_name": "crs000-faculty",
     "repository_visibility": "private",
     "repository_audience": "assigned_faculty"
@@ -17,7 +17,7 @@
   "control": {
     "status": "draft",
     "source_repository": "https://github.com/GC-STEM/crs000-faculty",
-    "change_summary": "Adopt schema 3.1 and the private faculty course template identity. Assigned faculty access is enforced by GitHub repository permissions. Inherit the selected Atlas SCB and its deployment-aware requirements and launch profiles. Describe planned sanitized student distribution, retaining only .faculty/README.md inside .faculty and rewriting repository identity and launch links for the destination."
+    "change_summary": "Adopt schema 3.1 and the private faculty course template identity. Assigned faculty access is enforced by GitHub repository permissions. Inherit the selected Atlas SOE and its deployment-aware requirements and launch profiles. Describe planned sanitized student distribution, retaining only .faculty/README.md inside .faculty and rewriting repository identity and launch links for the destination."
   },
   "course_environments": {},
   "additions": {},
